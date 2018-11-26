@@ -2,7 +2,7 @@
 
 # Actividad 011 - Introducción a Ruby
 
-*INSTRUCCIONES*:
+*INSTRUCCIONES*: prueba
 
 - Para poder realizar esta actividad debes haber realizado los cursos previos y haber visto los videos correspondientes a la experiencia 6.
 
